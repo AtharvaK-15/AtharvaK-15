@@ -5,7 +5,7 @@ Hi there I am Atharva!👋<br><br>🔭 I’m currently working on a Full Stack W
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-kulkarni-04789a225/) 
 
 # 💻 Tech I've worked with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,java,git,heroku,materialui,mongodb,mysql,nodejs,express,firebase,php,postgres,postman,py,react,redux,tailwind,vite,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,java,git,heroku,materialui,mongodb,mysql,nodejs,express,firebase,php,postgres,postman,py,react,redux,tailwind,vite,vercel,vscode,)](https://skillicons.dev)
 
 
 ---
